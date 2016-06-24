@@ -11,6 +11,7 @@ public class Main {
 		{
 			System.out.println("THIS IS AN EXAMPLE");
 			System.out.println("HELLO WORLD");
+			System.out.println("Test1");
 		}
 
 	
